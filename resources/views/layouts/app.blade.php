@@ -22,6 +22,7 @@
 <body>
     <div id="app">
         <header>
+            @include('templates.nav')
             @include('templates.header')
         </header>
 
@@ -29,7 +30,9 @@
             @yield('content')
         </main>
 
-        <footer></footer>
+        <footer>
+            @include('templates.footer')
+        </footer>
     </div>
 </body>
 </html>
