@@ -21,18 +21,7 @@
 </head>
 <body>
     <div id="app">
-        <header>
-            @include('templates.nav')
-            @include('templates.header')
-        </header>
-
-        <main class="py-4">
-            @yield('content')
-        </main>
-
-        <footer>
-            @include('templates.footer')
-        </footer>
+        @yield('content')
     </div>
     <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A43025be04c669dd38c37a101debdc88d24c0c7927173ca24e2b0a89dc18ad432&amp;width=100%25&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>
 </body>
