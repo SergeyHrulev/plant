@@ -125,10 +125,10 @@
 
                 </p>
             </div>
-            <div class="col">
-                <p style="font-size:1.5rem;font-weight: 600">График работы:</p>
-                <p>пн-пт: с 9:00 до 18:00</p>
-            </div>
+            {{--<div class="col">--}}
+                {{--<p style="font-size:1.5rem;font-weight: 600">График работы:</p>--}}
+                {{--<p>пн-пт: с 9:00 до 18:00</p>--}}
+            {{--</div>--}}
             <div class="col">
                 <p style="font-size:1.5rem;font-weight: 600">Главная</p>
                 <p>Продукция</p>
@@ -136,13 +136,13 @@
                 <p>Проекты</p>
                 <p>Контакты</p>
             </div>
-            <div class="col">
-                <p style="font-size:1.5rem;font-weight: 600">Продукция:</p>
-                <p>Трубы</p>
-                <p>Трубы</p>
-                <p>Трубы</p>
-                <p>Трубы</p>
-            </div>
+            {{--<div class="col">--}}
+                {{--<p style="font-size:1.5rem;font-weight: 600">Продукция:</p>--}}
+                {{--<p>Трубы</p>--}}
+                {{--<p>Трубы</p>--}}
+                {{--<p>Трубы</p>--}}
+                {{--<p>Трубы</p>--}}
+            {{--</div>--}}
             <div class="col">
                 <p style="font-size:1.5rem;font-weight: 600">Мы в соцсетях</p>
 

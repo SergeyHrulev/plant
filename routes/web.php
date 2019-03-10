@@ -11,11 +11,11 @@
 |
 */
 
-Route::get('/', function () {
-    return view('main');
-});
-Route::get('/new', function (){
-    return view('new');
+//Route::get('/', function () {
+//    return view('main');
+//});
+Route::get('/', function (){
+    return view('temp');
 });
 
 Auth::routes();
