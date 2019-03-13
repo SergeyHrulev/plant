@@ -47,7 +47,7 @@
 
     <div class="row my-3" style="background-color: #3da8e3;color: #fdfdfd;">
         <div class="container">
-            <div class="row py-5 px-3" id="contacts">
+            <div class="row py-5 px-5" id="contacts">
                 <div class="col">
                     <p style="font-size:1.5rem;font-weight: 600">Адрес:</p>
                     <p>196158, Санкт-Петербург, ул.Пулковская, д. 2, лит. А, пом. 63Н, оф.2</p><br>
@@ -56,14 +56,14 @@
 
                     </p>
                 </div>
-                <div class="col align-items-center">
-                    <p style="font-size:1.5rem;font-weight: 600">Разделы</p>
-                      <p>Контакты</p>
-                </div>
-                <div class="col">
-                    <p style="font-size:1.5rem;font-weight: 600">Мы в соцсетях</p>
+                {{--<div class="col align-items-center">--}}
+                    {{--<p style="font-size:1.5rem;font-weight: 600">Разделы</p>--}}
+                      {{--<p>Контакты</p>--}}
+                {{--</div>--}}
+                {{--<div class="col">--}}
+                    {{--<p style="font-size:1.5rem;font-weight: 600">Мы в соцсетях</p>--}}
 
-                </div>
+                {{--</div>--}}
             </div>
         </div>
     </div>
